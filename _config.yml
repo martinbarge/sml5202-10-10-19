@@ -4,5 +4,4 @@ description: An example of how to use GitHub Pages
 github:
   page2: page2.html
   page3: page3.html
-lang:
-  default: en-uk
+lang: en-uk
