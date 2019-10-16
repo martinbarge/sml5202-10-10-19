@@ -1,5 +1,5 @@
-<h1>Page 3</h1>
-<p>
-  <a href="index.html">Home</a> <br>
-  <a href="page2.html">Page 2</a>
+<h1>Homework Week 4</h1>
+<p style="border: 1px solid #021a40;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Giraffe-solo_Koure-NIGER.jpg" style="width:50%; border: 1px solid #021a40;" />
+The giraffe's chief distinguishing characteristics are its extremely long neck and legs, its horn-like ossicones, and its distinctive coat patterns. It is classified under the family Giraffidae, along with its closest extant relative, the okapi. Its scattered range extends from Chad in the north to South Africa in the south, and from Niger in the west to Somalia in the east. Giraffes usually inhabit savannahs and woodlands. Their food source is leaves, fruits and flowers of woody plants, primarily acacia species, which they browse at heights most other herbivores cannot reach. They may be preyed on by lions, leopards, spotted hyenas and African wild dogs. Giraffes live in herds of related females and their offspring, or bachelor herds of unrelated adult males, but are gregarious and may gather in large aggregations. Males establish social hierarchies through "necking", which are combat bouts where the neck is used as a weapon. Dominant males gain mating access to females, which bear the sole responsibility for raising the young. 
 </p>
