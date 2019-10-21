@@ -14,6 +14,7 @@
   float: left;
   width: 50%;
   padding: 10px;
+  border: 10px solid black;
  /* height: 300px; Should be removed. Only for demonstration */
 }
 
@@ -23,7 +24,6 @@
   content: "";
   display: table;
   clear: both;
-  border: solid #5B6DCD 1px;
 }
 </style>
 
