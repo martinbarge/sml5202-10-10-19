@@ -6,7 +6,6 @@
 <style>
 * {
   box-sizing: border-box;
-  border: solid #5B6DCD 1px;
 }
 
 /* Create two equal columns that floats next to each other */
@@ -24,6 +23,7 @@
   content: "";
   display: table;
   clear: both;
+  border: solid #5B6DCD 1px;
 }
 </style>
 
