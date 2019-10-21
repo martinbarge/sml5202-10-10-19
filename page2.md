@@ -14,8 +14,12 @@
   float: left;
   width: 50%;
   padding: 10px;
-  border: 10px solid black;
- /* height: 300px; Should be removed. Only for demonstration */
+}
+
+/* Border around the container */
+
+.row {
+   border: 1px solid black;
 }
 
 /* Clear floats after the columns */
@@ -25,6 +29,15 @@
   display: table;
   clear: both;
 }
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+
 </style>
 
 <h2>Two Equal Columns</h2>
